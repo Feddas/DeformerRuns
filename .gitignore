@@ -24,6 +24,7 @@ Thumbs.db
 Thumbs.db.meta
 
 /RawDesign/*
+/Recordings/*
 
 # LFS files - TODO export these
 *.ogg
